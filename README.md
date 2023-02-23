@@ -1,13 +1,13 @@
 # sshclient
 SSH Bash Client para uso em redes q não podem baixar moba, putty etc, com recurso de passar senha
 
-Alternativa: ssh-pass
+Alternativa: ssh-pass para uso em stages Pipeline com SAS Solutions 
 
 ## usage
 
 ssh_sas -h
 
 ```
-$ passh -p password ssh user@host
+$ ssh_sas -p password ssh user@host
 
 ```
