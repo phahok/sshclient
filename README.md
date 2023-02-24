@@ -13,5 +13,7 @@ $ ssh_sas -p password ssh user@srv_host
 ```
 
 ## Path bin
+```
 cp -v ssh_sas /usr/bin/
 ssh_sas -h
+```
