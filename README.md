@@ -16,3 +16,10 @@ $ ssh_sas -p password ssh user@srv_host
 ```
 cp -v ssh_sas /usr/bin/ ; ssh_sas -h
 ```
+
+
+
+
+
+
+[Referência - sshpass]: https://sourceforge.net/projects/sshpass/
