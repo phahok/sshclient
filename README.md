@@ -17,6 +17,11 @@ $ ssh_sas -p password ssh user@srv_host
 cp -v ssh_sas /usr/bin/ ; ssh_sas -h
 ```
 
+Exemplos de uso
+```
+ ssh_sas -p passw0rd ssh user@servername_or_ip df -h /sasdata  #Logar em server e rodar comando df
+```
+
 
 
 
